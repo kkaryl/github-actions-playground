@@ -27,7 +27,7 @@ import (
 	"log"
 	"os"
 
-	"reverse-example/reverse"
+	"github.com/kkaryl/github-actions-playground/reverse"
 )
 
 func usage() {
